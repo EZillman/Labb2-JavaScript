@@ -1,0 +1,32 @@
+
+body{
+    background: linear-gradient(90deg, #FC466B 0%, #526fff 100%);
+}
+
+h1{
+    margin-top: 25vh;
+    text-align: center;
+    font-size: 4rem;
+}
+
+main{
+    margin: auto;
+    display: block;
+    border-radius: 2rem;
+    justify-content: center;
+    background-color: rgba(240, 255, 255, 0.658);
+    width: fit-content;
+    padding: 2rem;
+    text-align: center;
+}
+
+input{
+    margin: 0.5rem;
+}
+
+button{
+    background-color: #ffc2f2;
+    border-color: #ff6eca;
+    border-radius: 2rem;
+    margin: 1rem;
+}
